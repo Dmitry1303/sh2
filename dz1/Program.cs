@@ -9,7 +9,7 @@ namespace dz1
     class Program
     {
         /// <summary>
-        /// Акулов Д.С. C#_1 курс. 1 дз
+        ///C#_1 курс. 1 дз
         /// </summary>
         /// <param name="args"></param>
         static void Main(string[] args)
